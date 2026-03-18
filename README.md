@@ -13,9 +13,9 @@
 
 ## About Me
 
-- I enjoy building practical software with clean architecture and measurable performance.
-- My current work spans **Go backends**, **distributed systems**, and **AI agent platforms**.
-- I care about DX, maintainability, and shipping complete, documented projects.
+- Building AI agents and developer tools with Go
+- Currently exploring distributed systems, video streaming architectures, and agent tooling
+- Interested in clean code, performance optimization, and practical solutions
 
 ## Tech Stack
 
@@ -32,14 +32,14 @@
 
 ## Featured Projects
 
+### [TinyClaw](https://github.com/ihoooohi/TinyClaw)
+Lightweight AI agent service built with Go, featuring ReAct-style agent workflow, Feishu channel integration, and command execution with built-in safety guards.
+
 ### [feedsystem_video_go](https://github.com/ihoooohi/feedsystem_video_go)
 Video feed system built with Go, mimicking TikTok architecture with high-performance feed delivery, database optimization, and containerized deployment.
 
-### [EchoCenter](https://github.com/ihoooohi/EchoCenter)
-Modular multi-agent management hub with real-time WebSocket messaging, coordinator system, and persistent chat history.
-
 ### [GeeCache](https://github.com/ihoooohi/GeeCache)
-A distributed in-memory cache system implemented in Go, exploring consistent hashing, single-flight patterns, and cache eviction strategies.
+Distributed in-memory cache system implemented in Go, exploring consistent hashing, single-flight patterns, and cache eviction strategies.
 
 ### [My-Thread-Safe-Malloc](https://github.com/ihoooohi/My-Thread-Safe-Malloc)
 Thread-safe memory allocator implementation demonstrating mutex-based concurrency control and memory management fundamentals.
