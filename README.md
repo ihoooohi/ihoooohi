@@ -1,10 +1,8 @@
-# 👋 你好，我是 Zuocan Ying(ihoo)
-
+# 👋 Hi, I'm Zuocan Ying (ihoo)
 
 ---
 
-
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -27,7 +25,7 @@
 
 ---
 
-## 📈 GitHub 统计
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -39,19 +37,19 @@
 
 ---
 
-## 📂 重点项目
+## 📂 Featured Projects
 
 <div align="left">
 
-### 💼 工作相关
-- [MyBlog2](https://github.com/ihoooohi/MyBlog2) - 基于 Quartz 的个人博客
-- [TinyClaw](https://github.com/ihoooohi/TinyClaw) - 轻量版OpenClaw
+### 💼 Work & Personal
+- [MyBlog2](https://github.com/ihoooohi/MyBlog2) - Personal blog built with Quartz
+- [TinyClaw](https://github.com/ihoooohi/TinyClaw) - Lightweight version of OpenClaw
 
 </div>
 
 ---
 
-## 📫 联系我
+## 📫 Contact
 
 <div align="center">
 
@@ -62,7 +60,7 @@
 
 ---
 
-## 📊 贡献统计
+## 📊 Contribution Graph
 
 <div align="center">
 
@@ -74,8 +72,8 @@
 
 <div align="center">
 
-### 感谢访问！⭐
+### Thanks for visiting! ⭐
 
-*"优秀的开发者不是天生的，而是写出来的。*
+*"Great developers aren't born—they're written."*
 
 </div>
