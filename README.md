@@ -1,79 +1,50 @@
-# 👋 Hi, I'm Zuocan Ying (ihoo)
+<h1 align="center">Hi, I'm Zuocan Ying (ihoo)</h1>
+<p align="center">
+  CS Student @ Duke ECE · Building systems, tooling, and AI agents
+</p>
+<p align="center">
+  <a href="https://github.com/ihoooohi">
+    <img src="https://img.shields.io/github/followers/ihoooohi?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ihoooohi?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Systems%20%7C%20AI%20%7C%20Backend-1f6feb?style=for-the-badge" alt="Focus" />
+  </a>
+</p>
 
----
+## About Me
 
-## 🛠️ Tech Stack
+- I enjoy building practical software with clean architecture and measurable performance.
+- My current work spans **Go backends**, **distributed systems**, and **AI agent platforms**.
+- I care about DX, maintainability, and shipping complete, documented projects.
 
-<div align="center">
+## Tech Stack
 
-**Languages**
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
 
-**Backend**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+## Featured Projects
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
+### [feedsystem_video_go](https://github.com/ihoooohi/feedsystem_video_go)
+Video feed system built with Go, mimicking TikTok architecture with high-performance feed delivery, database optimization, and containerized deployment.
 
-</div>
+### [EchoCenter](https://github.com/ihoooohi/EchoCenter)
+Modular multi-agent management hub with real-time WebSocket messaging, coordinator system, and persistent chat history.
 
----
+### [GeeCache](https://github.com/ihoooohi/GeeCache)
+A distributed in-memory cache system implemented in Go, exploring consistent hashing, single-flight patterns, and cache eviction strategies.
 
-## 📈 GitHub Stats
+### [My-Thread-Safe-Malloc](https://github.com/ihoooohi/My-Thread-Safe-Malloc)
+Thread-safe memory allocator implementation demonstrating mutex-based concurrency control and memory management fundamentals.
 
-<div align="center">
+## Links
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihoooohi&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoooohi&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="left">
-
-### 💼 Work & Personal
-- [MyBlog2](https://github.com/ihoooohi/MyBlog2) - Personal blog built with Quartz
-- [TinyClaw](https://github.com/ihoooohi/TinyClaw) - Lightweight version of OpenClaw
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuocan.ying@duke.edu)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ihoooohi)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihoooohi&theme=github)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! ⭐
-
-*"Great developers aren't born—they're written."*
-
-</div>
+- Email: zuocan.ying@duke.edu
+- GitHub: https://github.com/ihoooohi
