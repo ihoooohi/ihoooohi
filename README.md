@@ -54,10 +54,7 @@
 
 ### 💼 工作相关
 - [MyBlog2](https://github.com/ihoooohi/MyBlog2) - 基于 Quartz 的个人博客
-- [quartz-blog](https://github.com/ihoooohi/quartz-blog) - VitePress 技术文档站
-
-### 🧪 实验项目
-- [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - OpenClaw 社区用例合集 Contributor
+- [TinyClaw](https://github.com/ihoooohi/TinyClaw) - 轻量版OpenClaw
 
 </div>
 
@@ -67,7 +64,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuocan.ying@duke.edu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ihoooohi)
 
 </div>
