@@ -38,8 +38,8 @@ Lightweight AI agent service built with Go, featuring ReAct-style agent workflow
 ### [feedsystem_video_go](https://github.com/ihoooohi/feedsystem_video_go)
 Video feed system built with Go, mimicking TikTok architecture with high-performance feed delivery, database optimization, and containerized deployment.
 
-### [GeeCache](https://github.com/ihoooohi/GeeCache)
-Distributed in-memory cache system implemented in Go, exploring consistent hashing, single-flight patterns, and cache eviction strategies.
+### [claude-code-session-cleaner](https://github.com/ihoooohi/claude-code-session-cleaner)
+Stopgap CLI to list and delete Claude Code session files, with per-project filtering, custom session names, and safe-deletion guards. Tracks anthropics/claude-code#26904.
 
 ### [My-Thread-Safe-Malloc](https://github.com/ihoooohi/My-Thread-Safe-Malloc)
 Thread-safe memory allocator implementation demonstrating mutex-based concurrency control and memory management fundamentals.
